@@ -34,7 +34,7 @@
 
 .pori-alonaati a {
 	background: #ffc600;
-	color: #fff;
+	color: #103749;
 	font-size: 15px;
 	padding: 4px 15px;
 	border-radius: 3px;
@@ -42,8 +42,37 @@
 
 .pori-alonaati {
 	margin-top: 15px;
+	text-align: center;
+	padding: 8px;
 }
 
 .img-cart {
   margin: 13px 0;
+}
+.lotfan {
+  background: #ffc600;
+  font-size: 16px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+}
+.label-up {
+  font-size: 16px;
+  background: #ffc600;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+}
+#pori_list_upload img {
+  border: 1px solid;
+  border-radius: 8px;
+  width: 180px;
+  height: 100px;
+  text-align: center;
+}
+#pori_list_upload span {
+  font-size: 0;
+}
+#pori_list_upload {
+  text-align: center;
 }
